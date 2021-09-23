@@ -1,0 +1,87 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+p img {
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+.col-md-6{
+    color:black;
+    background-color: lightgrey;
+    border: solid 1px gray;
+    margin-left: 276px;
+    width: 710px;
+    margin-bottom: 20px;
+    text-indent: 30px;
+    font-variant: small-caps;
+}
+.line-break{
+    width: 50%;
+    margin-left: 23%;
+}
+.btn-read{
+    color: white;
+    background: goldenrod;
+    border: solid 1px black;
+    margin: 65px;
+    padding: 10px;
+    align-items: flex-end;
+}
+.container2 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 0px;
+}
+.container2 img{
+    max-height: 80%;
+    max-width: 90%;
+    padding: 10px;
+    margin-left: 60px;
+}
+.container img{
+    max-height: 150px;
+    max-width: 100%;
+}
+.container ul{
+    padding: 10px;
+    margin: 0px;
+}
+.text{
+    position: absolute;
+    top: 350px;
+    left: 300px;
+    font-size: 100px;
+    color: white;
+}
+.topnav{
+    display: flex;
+}
+.topnav ul{
+    list-style-type: none;
+    margin: 0;
+    margin-left: auto;
+    background-color:black;
+    padding: 1.5%;
+    display:inline-block;
+    width: 100%;
+}
+.topnav li{
+    margin:0;
+    padding: 0 2.5%;
+    float: left;
+    }
+.topnav a{
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    margin: 0;
+    padding: 0;
+    font-weight:500;
+    font-size: 100%;
+}
+#Griot{
+    font-size: 150%;
+    margin-right: 300px;
+}
